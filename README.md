@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 👨‍💻 All of my projects are available at [https://faizaldev.netlify.app/](https://faizaldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://faizalmsdev.netlify.app/](https://faizalmsdev.netlify.app/)
 
 - 💬 Ask me about **JavaScript,HTML**
 
