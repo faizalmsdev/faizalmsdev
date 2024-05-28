@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizalmsdev&label=Profile%20views&color=0e75b6&style=flat" alt="faizalmsdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/faizfaizal2126" target="blank"><img src="https://img.shields.io/twitter/follow/faizfaizal2126?logo=twitter&style=for-the-badge" alt="faizfaizal2126" /></a> </p>
+<p align="left"> <a href="https://twitter.com/faizfaizal2126" target="blank"><img src="https://img.shields.io/twitter/follow/faizfaizal2626?logo=twitter&style=for-the-badge" alt="faizfaizal2626" /></a> </p>
 
 - 🔭 I’m currently working on [100-JavaScript-Projects-to-Boost-Your-Development-Skills](https://github.com/faizalmsdev/100-JavaScript-Projects-to-Boost-Your-Development-Skills)
 
